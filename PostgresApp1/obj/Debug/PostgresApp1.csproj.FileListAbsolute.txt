@@ -1,0 +1,17 @@
+C:\Workspace\Other\PostgresApp1\PostgresApp1\bin\Debug\PostgresApp1.exe.config
+C:\Workspace\Other\PostgresApp1\PostgresApp1\bin\Debug\PostgresApp1.exe
+C:\Workspace\Other\PostgresApp1\PostgresApp1\bin\Debug\PostgresApp1.pdb
+C:\Workspace\Other\PostgresApp1\PostgresApp1\bin\Debug\EntityFramework.dll
+C:\Workspace\Other\PostgresApp1\PostgresApp1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Workspace\Other\PostgresApp1\PostgresApp1\bin\Debug\Npgsql.dll
+C:\Workspace\Other\PostgresApp1\PostgresApp1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Workspace\Other\PostgresApp1\PostgresApp1\bin\Debug\EntityFramework.xml
+C:\Workspace\Other\PostgresApp1\PostgresApp1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Workspace\Other\PostgresApp1\PostgresApp1\bin\Debug\Npgsql.xml
+C:\Workspace\Other\PostgresApp1\PostgresApp1\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Workspace\Other\PostgresApp1\PostgresApp1\obj\Debug\PostgresApp1.csproj.CoreCompileInputs.cache
+C:\Workspace\Other\PostgresApp1\PostgresApp1\obj\Debug\PostgresApp1.exe
+C:\Workspace\Other\PostgresApp1\PostgresApp1\obj\Debug\PostgresApp1.pdb
+C:\Workspace\Other\PostgresApp1\PostgresApp1\bin\Debug\EntityFramework6.Npgsql.dll
+C:\Workspace\Other\PostgresApp1\PostgresApp1\bin\Debug\EntityFramework6.Npgsql.xml
+C:\Workspace\Other\PostgresApp1\PostgresApp1\obj\Debug\PostgresApp1.csprojResolveAssemblyReference.cache
